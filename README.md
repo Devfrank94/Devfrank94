@@ -16,7 +16,7 @@
 <h3 align="left">My skills & tools:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,html,css,js,git,github,nodejs,bootstrap,vue,sass,mysql,php,laravel,ps,wordpress,cloudflare&perline=5" />
+    <img src="https://skillicons.dev/icons?i=vscode,html,css,js,git,github,nodejs,bootstrap,vue,sass,mysql,php,laravel,ps,wordpress,cloudflare&perline=10" />
   </a>
 </p>
 
