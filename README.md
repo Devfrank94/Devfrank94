@@ -16,12 +16,12 @@
 <h3 align="left">My skills & tools:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,html,css,js,git,github,nodejs,bootstrap,vue,sass,mysql,php,laravel,ps,wordpress,cloudflare&perline=4" />
+    <img src="https://skillicons.dev/icons?i=vscode,html,css,js,git,github,nodejs,bootstrap,vue,sass,mysql,php,laravel,ps,wordpress,cloudflare&perline=5" />
   </a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devfrank94&show_icons=true&locale=en&layout=compact" alt="devfrank94" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devfrank94&show_icons=true&locale=en" alt="devfrank94" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=devfrank94&show_icons=true&locale=en" alt="devfrank94" /></p>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=devfrank94&" alt="devfrank94" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=devfrank94&" alt="devfrank94" /></p>
