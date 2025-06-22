@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Francesco Murro 💻</h1>
-<h3 align="center">A passionate Jr. Full Stack Web Developer</h3>
+<h3 align="center">A passionate Front-end Web Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devfrank94&label=Profile%20views&color=0e75b6&style=flat" alt="devfrank94" /> </p>
 
@@ -16,7 +16,7 @@
 <h3 align="left">My skills & tools:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,html,css,js,git,github,nodejs,bootstrap,tailwind,vue,sass,mysql,php,laravel,ps,npm,react,jquery,materialui,postgres,express,vite,postman,angular&perline=8" />
+    <img src="https://skillicons.dev/icons?i=vscode,html,css,js,git,github,nodejs,bootstrap,tailwind,vue,sass,mysql,php,laravel,ps,npm,react,jquery,materialui,postgres,express,vite,postman,angular,ts,webstorm,bitbucket&perline=7" />
   </a>
 </p>
 
