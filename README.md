@@ -10,16 +10,27 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/francesco-murro-dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="francesco murro" height="30" width="40" /></a>
-<a href="https://www.instagram.com/fra_murro/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@fra_murro" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">My skills & tools:</h3>
-<p align="left">
+<h3 align="center">My skills & tools:</h3>
+
+<h4 align="center">Frontend</h4>
+<p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,html,css,js,git,github,nodejs,bootstrap,tailwind,vue,sass,mysql,php,laravel,ps,npm,react,jquery,materialui,postgres,express,vite,postman,angular,ts,webstorm,bitbucket&perline=7" />
+    <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,angular,react,vue,jquery,bootstrap,tailwind,materialui&perline=12" />
   </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devfrank94&show_icons=true&locale=en&layout=compact" alt="devfrank94" /></p>
+<h4 align="center">Backend & Database</h4>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,php,laravel,postgres,mysql,maven,docker,git,github&perline=12" />
+  </a>
+</p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=devfrank94&show_icons=true&locale=en" alt="devfrank94" /></p>
+<h4 align="center">Tools & IDE</h4>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=bitbucket,vscode,webstorm,postman,figma,npm,vite,ps&perline=12" />
+  </a>
+</p>
